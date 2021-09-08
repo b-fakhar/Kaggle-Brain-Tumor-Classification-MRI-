@@ -1,4 +1,4 @@
-# Kaggle-Brain-Tumor-Classification-MRI-
+# Kaggle-Brain Tumor Classification (MRI)
 # Problem Statement:
 A Brain tumor is considered as one of the aggressive diseases, among children and adults. Brain Tumors are classified as: Benign Tumor, Malignant Tumor, Pituitary Tumor, etc. Proper treatment, planning, and accurate diagnostics should be implemented to improve the life expectancy of the patients.
 
